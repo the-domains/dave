@@ -4,7 +4,7 @@
         <description><![CDATA[dave]]></description>
         <link>https://thegrid.ai/dave/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 02:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 03:15:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dave/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>1. Get the Data</h1><p>I spend a lot of my time talking and thinking about personalization. If you know that data driven personalization and experimentation is something you should be doing but don’t really know where to start or how to get there, then you’re decidedly in the majority. Most organizations are doing a fairly good job of collecting a lot of data, a smaller number are excelling at understanding the data. Very few are activating that data in real time.</p></article>]]></description>
             <link>https://thegrid.ai/dave/six-degrees-of-personalization/index.html</link>
             <guid isPermaLink="false">f730a451-cfc4-4365-9a64-cc94ad328de4</guid>
-            <pubDate>Wed, 30 Dec 2015 02:12:05 GMT</pubDate>
+            <pubDate>Wed, 30 Dec 2015 03:15:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
