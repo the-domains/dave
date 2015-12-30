@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T02:12:05.783Z'
-dateModified: '2015-12-30T02:11:52.290Z'
+datePublished: '2015-12-30T03:15:14.782Z'
+dateModified: '2015-12-30T03:15:06.696Z'
 title: Six Degrees of Personalization
 author: []
+sourcePath: _posts/2015-12-30-six-degrees-of-personalization.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-30-six-degrees-of-personalization.md
-published: true
 url: six-degrees-of-personalization/index.html
 _type: Article
 
