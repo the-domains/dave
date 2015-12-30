@@ -2,7 +2,6 @@ name: dave
 favicon: null
 layout_spectrum: 0.98843
 typography_spectrum: 0.49997
-title: Dave Ingram
 cta:
   domain: null
   bucket: null
@@ -22,7 +21,7 @@ color:
     - '#e30009'
     - '#da4e53'
     - '#393939'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.04166843253187835
   saturation: 0.4663968156091869
   rhythmicContrast: 0.26267083222046494
