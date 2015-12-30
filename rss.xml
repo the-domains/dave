@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[dave]]></title>
+        <description><![CDATA[dave]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Dec 2015 02:12:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[1. Get the Data]]></title>
+            <description><![CDATA[<article><h1>1. Get the Data</h1><p>I spend a lot of my time talking and thinking about personalization. If you know that data driven personalization and experimentation is something you should be doing but don’t really know where to start or how to get there, then you’re decidedly in the majority. Most organizations are doing a fairly good job of collecting a lot of data, a smaller number are excelling at understanding the data. Very few are activating that data in real time.</p></article>]]></description>
+            <link>undefinedsix-degrees-of-personalization/index.html</link>
+            <guid isPermaLink="false">f730a451-cfc4-4365-9a64-cc94ad328de4</guid>
+            <pubDate>Wed, 30 Dec 2015 02:12:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
