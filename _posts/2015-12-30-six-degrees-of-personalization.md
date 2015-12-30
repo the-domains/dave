@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-30T03:15:14.782Z'
-dateModified: '2015-12-30T03:15:06.696Z'
+datePublished: '2015-12-30T03:17:34.878Z'
+dateModified: '2015-12-30T03:15:19.104Z'
 title: Six Degrees of Personalization
 author: []
 sourcePath: _posts/2015-12-30-six-degrees-of-personalization.md
