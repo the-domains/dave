@@ -1,7 +1,7 @@
 name: dave
 favicon: null
-layout_spectrum: 0.4530457993969321
-typography_spectrum: 0.327090383740142
+layout_spectrum: 0.98843
+typography_spectrum: 0.49997
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9944272609427571
+    - '#c9c9c9'
+    - '#000000'
+    - '#e30009'
+    - '#da4e53'
+    - '#393939'
+  brandStrength: 0.5
   lightness: 0.04166843253187835
   saturation: 0.4663968156091869
   rhythmicContrast: 0.26267083222046494
