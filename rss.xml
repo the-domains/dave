@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Dave Ingram]]></title>
-        <description><![CDATA[Dave Ingram]]></description>
+        <title><![CDATA[dave]]></title>
+        <description><![CDATA[dave]]></description>
         <link>https://thegrid.ai/dave/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 03:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 11:06:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dave/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[1. Get the Data]]></title>
-            <description><![CDATA[<article><h1>1. Get the Data</h1><p>I spend a lot of my time talking and thinking about personalization. If you know that data driven personalization and experimentation is something you should be doing but don’t really know where to start or how to get there, then you’re decidedly in the majority. Most organizations are doing a fairly good job of collecting a lot of data, a smaller number are excelling at understanding the data. Very few are activating that data in real time.</p></article>]]></description>
-            <link>https://thegrid.ai/dave/six-degrees-of-personalization/index.html</link>
-            <guid isPermaLink="false">f730a451-cfc4-4365-9a64-cc94ad328de4</guid>
-            <pubDate>Wed, 30 Dec 2015 03:17:34 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecbe3bba-22e5-4294-b3c3-84657489ab1d.png">]]></description>
